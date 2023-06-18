@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657231389 source:c:\users\charlot espoir\documents\projet\rappel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683210248 source:c:\users\charlot espoir\documents\projet\language c\liste_doublement_chainee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+

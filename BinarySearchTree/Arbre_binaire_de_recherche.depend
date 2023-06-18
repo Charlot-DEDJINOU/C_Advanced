@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683543364 source:c:\users\charlot espoir\documents\projet\tp c avancé\arbre_binaire_de_recherche\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
